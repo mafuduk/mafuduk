@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with erlang and property based testing
 - 💬 Ask me about pattern matching in elixir
 - 📫 How to reach me: mafuduk123@gmail.com
-- 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love music
